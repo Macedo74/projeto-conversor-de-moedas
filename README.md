@@ -27,4 +27,5 @@ O projeto foi desenvolvido utilizando as tecnologias fundamentais da web:
 - **Google Fonts:** Uso das fontes *Roboto* e *Oswald* para um design moderno.
 
    👨‍💻 Autor
+  
 Desenvolvido por Valmir Macedo Acompanhe meu progresso no GitHub: Macedo74
