@@ -26,6 +26,8 @@ O projeto foi desenvolvido utilizando as tecnologias fundamentais da web:
 - **JavaScript:** Lógica de conversão, manipulação do DOM e formatação de moedas.
 - **Google Fonts:** Uso das fontes *Roboto* e *Oswald* para um design moderno.
 
+Acesse o projeto: https://macedo74.github.io/projeto-conversor-de-moedas/
+
    👨‍💻 Autor
   
 Desenvolvido por Valmir Macedo Acompanhe meu progresso no GitHub: Macedo74
